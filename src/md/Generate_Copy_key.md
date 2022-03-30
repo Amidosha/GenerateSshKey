@@ -1,4 +1,4 @@
-1. В командной строке введите следующее: **ssh-keygen -t ed25519 -C "windows"** и нажмите Enter
+1. В командной строке введите следующее: **ssh-keygen -t ed25519 -C "ваш email"** и нажмите Enter
 2. На вопрос ```Enter file in which to save the key:``` нажмите Enter
    ![Terminal](/src/img/passware.jpg)
 3. На вопрос ```Enter passphrase (empty for no passphrase):``` нажмите Enter
