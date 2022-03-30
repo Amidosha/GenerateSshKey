@@ -1,7 +1,8 @@
-1. Открываем [Github](https://github.com/)
-2. Переходим в настройки
-   ![settings](/src/img/settings.jpg)
-   3.Открываем вкладку SSH and GPG keys и нажимаем News SSH key
+   1. Открываем [Github](https://github.com/)
+   2. Открываем выпадающее меню нажатием на иконку вашего профиля в правом верхнем углу и нажимаем settings 
+   ![image](https://user-images.githubusercontent.com/52781072/160904393-e1a61cf4-a32b-4d10-a44e-b13b470df9a8.png)
+
+   4.Открываем вкладку SSH and GPG keys и нажимаем News SSH key
    ![SSHkeyAdd](/src/img/SSHkeyAdd.jpg)
    4.В открывшемся окне пишем в графе Title имя ключа, в графу **key** вставляем наш ключ который мы копировали ранее и нажимаем **Add SSH key**
    ![Addkey](/src/img/Addkey.jpg)
